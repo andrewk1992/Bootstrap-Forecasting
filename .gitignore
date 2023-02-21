@@ -1,4 +1,7 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+library/
+local/
+cellar/
+lock/
+python/
+sandbox/
+staging/
