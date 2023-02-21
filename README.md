@@ -6,3 +6,5 @@ A sample time-series is block-bootstrapped n-times (100 by default) using the Bo
 
 Analysis can then be performed on the forecast distribution for each time period over the forecast horizon. This allows for an in-depth understanding of the
 distribution of forecast risks, and allows the user to determine probabilites for particular outcomes within the distributions. 
+
+This method can broadly be considered as a means of modelling uncertainty over a defined forecast horizon.
